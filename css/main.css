@@ -1114,6 +1114,12 @@ select {
   max-width: 440px;
 }
 
+.section-block-content__paragraphs {
+  background-color: #fff;
+  position: relative;
+  z-index: 10;
+}
+
 .section-block-content__text {
   font-style: normal;
   font-weight: 400;
