@@ -1236,6 +1236,7 @@ select {
 }
 
 .bestsellers {
+  padding-bottom: 60px;
   margin: 0 -2px;
 }
 
@@ -1510,6 +1511,7 @@ select {
   font-size: 16px;
   line-height: 150%;
   position: relative;
+  padding-left: 25px;
 }
 
 .review-block__review-author:before {
@@ -1517,7 +1519,10 @@ select {
   position: absolute;
   top: 50%;
   left: 0;
-  width: 10px;
+  -webkit-transform: translate(0, -50%);
+      -ms-transform: translate(0, -50%);
+          transform: translate(0, -50%);
+  width: 15px;
   height: 1px;
   background-color: #000;
 }
