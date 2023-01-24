@@ -1465,7 +1465,7 @@ select {
 }
 
 .reviews-slider__slide:nth-child(3n+2) .radio-button__input:checked + .radio-button__label {
-  background-image: url("../../img/stars_checked/star_yellow.svg");
+  background-image: url("../img/stars_checked/star_yellow.svg");
 }
 
 .reviews-slider__slide:nth-child(3n+2) .radio-button__label:hover {
@@ -1479,7 +1479,7 @@ select {
 }
 
 .reviews-slider__slide:nth-child(3n+3) .radio-button__input:checked + .radio-button__label {
-  background-image: url("../../img/stars_checked/star_green.svg");
+  background-image: url("../img/stars_checked/star_green.svg");
 }
 
 .reviews-slider__slide:nth-child(3n+3) .radio-button__label:hover {
